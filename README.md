@@ -1,9 +1,8 @@
 mote-lamp
 =========
 
-I built a lamp with my Dad, lit with Pimoroni Mote strips
+I built a lamp with my Dad! It's wooden and lit with Pimoroni Mote strips
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+At some point, I might detail the build and how it works, but at first I'm going to finish it and enjoy it...
