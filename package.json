@@ -1,0 +1,12 @@
+{
+    "name": "mote-lamp",
+    "description": "I built a lamp with my Dad, lit with Pimoroni Mote strips",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_lamppi.json",
+            "credentialsFile": "flows_lamppi_cred.json"
+        }
+    }
+}
